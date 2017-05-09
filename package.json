@@ -1,0 +1,22 @@
+{
+  "name": "liriapp",
+  "version": "1.0.0",
+  "description": "Language processing app",
+  "main": "liri.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/oropezahector/LiriApp.git"
+  },
+  "keywords": [
+    "Liri"
+  ],
+  "author": "Hector Oropeza",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/oropezahector/LiriApp/issues"
+  },
+  "homepage": "https://github.com/oropezahector/LiriApp#readme"
+}
